@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+#header {
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+#container {
+    color: white;
+}
+
+#form {
+    color: white;
+}
+
+.headings {
+    color: aquamarine;
+}
+
+.circular {
+    border-radius: 50%;
+}
