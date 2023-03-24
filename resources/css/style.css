@@ -5,6 +5,7 @@ body {
 }
 
 #header {
+    text-align: center;
     color: white;
     font-family: 'Bebas Neue', cursive;
     font-weight: normal;
@@ -32,4 +33,7 @@ a {
     border-radius: 50%;
 }
 
+.navtop-right {
+    float: center;
+  }
 
